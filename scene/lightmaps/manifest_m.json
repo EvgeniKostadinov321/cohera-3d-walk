@@ -1,0 +1,115 @@
+{
+ "layers": {
+  "day": {
+   "file": "m/day.webp",
+   "scale": 2.1141555309295654,
+   "mean": 0.02952449768781662
+  },
+  "night": {
+   "file": "m/night.webp",
+   "scale": 0.7515360713005066,
+   "mean": 0.00212409277446568
+  },
+  "bath": {
+   "file": "m/bath.webp",
+   "scale": 0.667848527431488,
+   "mean": 0.0017483338015154004,
+   "gain": [
+    0.86,
+    1,
+    1.28
+   ]
+  },
+  "bedroom": {
+   "file": "m/bedroom.webp",
+   "scale": 17.428693771362305,
+   "mean": 0.013209674507379532,
+   "gain": [
+    0.86,
+    1,
+    1.28
+   ]
+  },
+  "dining": {
+   "file": "m/dining.webp",
+   "scale": 0.4786560535430908,
+   "mean": 0.0012611126294359565,
+   "gain": [
+    0.86,
+    1,
+    1.28
+   ]
+  },
+  "hall": {
+   "file": "m/hall.webp",
+   "scale": 0.6903420686721802,
+   "mean": 0.001694936421699822,
+   "gain": [
+    0.86,
+    1,
+    1.28
+   ]
+  },
+  "kitchen": {
+   "file": "m/kitchen.webp",
+   "scale": 0.4896112382411957,
+   "mean": 0.0009046224295161664,
+   "gain": [
+    0.86,
+    1,
+    1.28
+   ]
+  },
+  "landing": {
+   "file": "m/landing.webp",
+   "scale": 0.2534787356853485,
+   "mean": 0.0006634030141867697,
+   "gain": [
+    0.86,
+    1,
+    1.28
+   ]
+  },
+  "living": {
+   "file": "m/living.webp",
+   "scale": 15.671856880187988,
+   "mean": 0.0165890920907259,
+   "gain": [
+    0.86,
+    1,
+    1.28
+   ]
+  },
+  "loggia": {
+   "file": "m/loggia.webp",
+   "scale": 0.16112858057022095,
+   "mean": 0.0003117629967164248,
+   "gain": [
+    0.86,
+    1,
+    1.28
+   ]
+  },
+  "passage": {
+   "file": "m/passage.webp",
+   "scale": 0.15090841054916382,
+   "mean": 0.00034524023067206144,
+   "gain": [
+    0.86,
+    1,
+    1.28
+   ]
+  }
+ },
+ "size": 1024,
+ "pano": {
+  "day": {
+   "file": "pano_day.webp",
+   "exposure": -1
+  },
+  "night": {
+   "file": "pano_night.webp",
+   "exposure": 1.5
+  }
+ }
+}
